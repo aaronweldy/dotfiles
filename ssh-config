@@ -2,3 +2,7 @@ Host caen
 	HostName login.engin.umich.edu
 	User aweldy
 	Compression yes
+Host gitlab
+    HostName gitlab.umich.edu
+    User aweldy
+    Compression yes
