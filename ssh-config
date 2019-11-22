@@ -5,4 +5,4 @@ Host caen
 Host gitlab
     HostName gitlab.umich.edu
     User aweldy
-    Compression yes
+    Compression no
